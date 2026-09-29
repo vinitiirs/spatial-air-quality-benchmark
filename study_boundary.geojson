@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"district": "Gaya_Urban_Core"},
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [84.970, 24.760],
+            [85.030, 24.760],
+            [85.030, 24.820],
+            [84.970, 24.820],
+            [84.970, 24.760]
+          ]
+        ]
+      }
+    }
+  ]
+}
